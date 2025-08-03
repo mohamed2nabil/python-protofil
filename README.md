@@ -136,23 +136,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Your Name mohamed nabil
+- GitHub: https://github.com/mohamed2nabil
+- LinkedIn: https://www.linkedin.com/in/mohamed-nabil-41047a223/
+- Email: mohamed2nabil5@gmail.com
 
-## 🙏 Acknowledgments
 
-- Dataset provided by [Source Name]
-- Inspiration from [relevant projects or papers]
-- Special thanks to [contributors or mentors]
 
-## 📚 References
-
-- [Movie Database Documentation](link)
-- [Data Analysis Best Practices](link)
-- [Visualization Guidelines](link)
-
----
 
 ⭐ **Star this repository if it helped you!**
